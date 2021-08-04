@@ -1,0 +1,2 @@
+create a homepage of an e-commerce website
+Use media reviews to make it responsive
